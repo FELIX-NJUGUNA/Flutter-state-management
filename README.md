@@ -1,10 +1,9 @@
 # state_management_provider
 
-A new Flutter project.
+Understanding state management in flutter preventing state transitions from colliding using providers
 
-## Getting Started
+get to use providers on [https://pub.dev]
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
